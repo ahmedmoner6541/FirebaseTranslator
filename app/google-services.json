@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "815193030562",
+    "firebase_url": "https://myfoodapi-55289-default-rtdb.firebaseio.com",
+    "project_id": "myfoodapi-55289",
+    "storage_bucket": "myfoodapi-55289.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815193030562:android:2ba7d4203ae38c11f97cfb",
+        "android_client_info": {
+          "package_name": "com.ahmedmoner.injecttodatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815193030562-1a900rhst148infr4h95k4tkrvfl9o89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDywg4wko7aZAtDol2RGiErMkCdr2v-hZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815193030562-1a900rhst148infr4h95k4tkrvfl9o89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815193030562:android:eb8e2d6086739c03f97cfb",
+        "android_client_info": {
+          "package_name": "com.ahmedmoner.translaiton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815193030562-1a900rhst148infr4h95k4tkrvfl9o89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDywg4wko7aZAtDol2RGiErMkCdr2v-hZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815193030562-1a900rhst148infr4h95k4tkrvfl9o89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
